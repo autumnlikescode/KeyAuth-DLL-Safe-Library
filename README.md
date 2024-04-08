@@ -1,4 +1,4 @@
-# keyauth-cpp-library : Please star 🌟
+# keyauth-cpp-library 
 KeyAuth C++ Library modified to support DLL
 
 ## Whats Different?
